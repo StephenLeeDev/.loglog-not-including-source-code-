@@ -57,19 +57,15 @@ It's a portfolio about Flutter project .loglog that I created
 ### Home
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/fb096c33-8567-46a0-98bd-db56e0043eb9" width="200" alt="Home">
-<br>Home<br><br><br>
 
 ### Coupon
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/f016fdb0-8716-4fc0-87ce-fc4d3bd1a684" width="200" alt="">
-<br>Coupon<br><br><br>
 
 ### Message
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/f55a68f7-fb57-4633-a53d-0520c02cfdc6" width="200" alt="">
-<br>Message<br><br><br>
 
 ### Map
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/aba87c16-c3af-4e2a-82df-e92dd37315b4" width="200" alt="">
-<br>Nearby shop<br><br><br>
