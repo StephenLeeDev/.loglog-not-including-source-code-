@@ -10,9 +10,16 @@ It's a portfolio about Flutter project .loglog that I created
 - MVVM design pattern
 - Clean Architecture
 - Provider
+- GetIt
 - Dio
+- GoRouter
+- Secure Storage
+- Shared Preferences
 - ImagePicker
+- Open Street Map
+- Table Calendar
 - REST API integration
+- Firebase AppDistribution
 
 <br><br>
 
@@ -63,3 +70,23 @@ It's a portfolio about Flutter project .loglog that I created
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/aba87c16-c3af-4e2a-82df-e92dd37315b4" width="200" alt="">
 
 <br>Home / Coupon / Message / Map<br><br><br>
+
+## Reward point card
+
+### Reward point card list (All)
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/b3247609-6b91-4f59-afd6-93013c5fb776" width="200" alt="">
+<br>All reward point card list<br><br><br>
+
+### Reward point card list (Bookmarked)
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/fac2878d-7f5e-4cab-89b6-af88d0a42760" width="200" alt="">
+<br>Bookmarked reward point card list<br><br><br>
+
+### Create a new reward point card
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/ac91da91-9022-40e9-b0bb-77a86657641c" width="200" alt="">
+<br>Select a shop to create reward point card from the list<br><br><br>
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/bf7a7a2e-4fe4-4bf6-84b1-e9b76329ea2b" width="200" alt="">
+<br>Create a new reward point card<br><br><br>
