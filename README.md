@@ -113,3 +113,14 @@ It's a portfolio about Flutter project .loglog that I created
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/c471c18c-2b94-46cd-9b93-8a49c272c6d5" width="200" alt="">
 <br>Filter coupons by category<br><br><br>
+
+### Use coupon
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/00284a08-aa4f-4f71-90a3-2a95c7640407" width="200" alt="">
+<br>Select coupon to use it from the list<br><br><br>
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/c5ac1706-55a9-4837-8a71-c5f65d7cc162" width="200" alt="">
+<br>Slide the button at the bottom from the left to the right<br><br><br>
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/903839d3-6346-4376-8fa2-4805a404aee7" width="200" alt="">
+<br>Coupon used successfully<br><br><br>
