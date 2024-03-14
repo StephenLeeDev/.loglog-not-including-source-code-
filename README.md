@@ -103,3 +103,13 @@ It's a portfolio about Flutter project .loglog that I created
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/d237e356-6a26-4b0b-8f42-590e4b35d364" width="200" alt="">
 <br>Coupon list that I looked up<br><br><br>
+
+### Coupons filtering (by keyword / by category)
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/dcdd0bef-8b9f-49b0-9ed4-5a9d04c0c44e" width="200" alt="">
+<br>Search coupons by keyword<br><br><br>
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/1d9c91f3-8223-43ea-941a-8a86e4f59406" width="200" alt="">
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/c471c18c-2b94-46cd-9b93-8a49c272c6d5" width="200" alt="">
+<br>Filter coupons by category<br><br><br>
