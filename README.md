@@ -181,7 +181,7 @@ It's a portfolio about Flutter project .loglog that I created
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/eeee69a3-11ec-44df-ab00-17895813d5c3" width="200" alt="">
 
-<br>Create schedule on calendar<br><br><br>
+Create schedule on calendar<br><br><br>
 
 ### Update schedule
 
@@ -189,7 +189,7 @@ It's a portfolio about Flutter project .loglog that I created
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/03821bc1-ec2e-480f-8e3a-c24700d61894" width="200" alt="">
 
-<br>Update schedule of calendar<br><br><br>
+Update schedule of calendar<br><br><br>
 
 ### Delete schedule
 
@@ -197,7 +197,7 @@ It's a portfolio about Flutter project .loglog that I created
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/c84d5bf9-53e5-4d00-a55b-42a108c0893a" width="200" alt="">
 
-<br>Delete schedule of calendar<br><br><br>
+Delete schedule of calendar<br><br><br>
 
 ## Enquete
 
@@ -215,4 +215,4 @@ It's a portfolio about Flutter project .loglog that I created
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/f74dab87-2f4f-4a62-9fbb-97fca9b1c254" width="200" alt="">
 
-<br>Identify customers' needs through a survey<br><br><br>
+Identify customers' needs through a survey<br><br><br>
