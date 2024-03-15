@@ -69,7 +69,7 @@ It's a portfolio about Flutter project .loglog that I created
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/aba87c16-c3af-4e2a-82df-e92dd37315b4" width="200" alt="">
 
-<br>Home / Coupon / Message / Map<br><br><br>
+Home / Coupon / Message / Map<br><br><br>
 
 ## Reward point card
 
