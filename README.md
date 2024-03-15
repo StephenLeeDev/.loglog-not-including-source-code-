@@ -146,6 +146,28 @@ It's a portfolio about Flutter project .loglog that I created
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/b6e2284f-cd23-42c5-acf3-4f418b30f195" width="200" alt="">
 <br>Look up nearby shops on map<br><br><br>
 
+## Shop
+
+### Search shop by keyword
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/014fa483-8553-4d8a-928c-ad5e2a7f2326" width="200" alt="">
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/866ef852-67ff-41f0-bfd7-4dd6d6531784" width="200" alt="">
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/e6843a4d-c523-4a52-ba75-861270ef91cb" width="200" alt="">
+
+<br><br><br>
+
+### Look up shop's coupons
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/12cc9c1f-047f-43e6-8310-5676646ca625" width="200" alt="">
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/675503c8-381e-41ed-8c7a-d24d07c161a9" width="200" alt="">
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/296fdb9f-0b1f-4821-baa2-5ae54b60933f" width="200" alt="">
+
+<br><br><br>
+
 ## Calendar
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/7fbd4ffd-609f-442e-a32c-9cb8adb074ec" width="200" alt="">
