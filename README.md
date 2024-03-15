@@ -148,7 +148,7 @@ It's a portfolio about Flutter project .loglog that I created
 
 ## Shop
 
-### Search shop by keyword
+#### Search shop by keyword
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/014fa483-8553-4d8a-928c-ad5e2a7f2326" width="200" alt="">
 
@@ -156,9 +156,7 @@ It's a portfolio about Flutter project .loglog that I created
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/e6843a4d-c523-4a52-ba75-861270ef91cb" width="200" alt="">
 
-<br><br><br>
-
-### Look up shop's coupons
+#### Look up shop's coupons
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/12cc9c1f-047f-43e6-8310-5676646ca625" width="200" alt="">
 
@@ -166,7 +164,7 @@ It's a portfolio about Flutter project .loglog that I created
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/296fdb9f-0b1f-4821-baa2-5ae54b60933f" width="200" alt="">
 
-<br><br><br>
+<br><br>
 
 ## Calendar
 
