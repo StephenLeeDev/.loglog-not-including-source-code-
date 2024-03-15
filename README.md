@@ -136,3 +136,12 @@ It's a portfolio about Flutter project .loglog that I created
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/bccec569-cfbb-4432-afa8-5395c0d4590b" width="200" alt="">
 <br>Message detail<br><br><br>
+
+## Map
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/f6d34133-aa32-4ac4-9b40-5267978f1a69" width="200" alt="">
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/55ef2b7b-114c-49d1-acb6-955333980f1a" width="200" alt="">
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/b6e2284f-cd23-42c5-acf3-4f418b30f195" width="200" alt="">
+<br>Look up nearby shops on map<br><br><br>
