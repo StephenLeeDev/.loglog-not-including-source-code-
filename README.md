@@ -162,3 +162,19 @@ It's a portfolio about Flutter project .loglog that I created
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/eeee69a3-11ec-44df-ab00-17895813d5c3" width="200" alt="">
 
 <br>Create schedule on calendar<br><br><br>
+
+### Update schedule
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/76b4132d-fddf-4ef3-a2f7-6440e177a68d" width="200" alt="">
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/03821bc1-ec2e-480f-8e3a-c24700d61894" width="200" alt="">
+
+<br>Update schedule of calendar<br><br><br>
+
+### Delete schedule
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/c6f2060f-ffb5-4c14-a3a4-5ac1045bf89c" width="200" alt="">
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/c84d5bf9-53e5-4d00-a55b-42a108c0893a" width="200" alt="">
+
+<br>Delete schedule of calendar<br><br><br>
