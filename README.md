@@ -117,10 +117,22 @@ It's a portfolio about Flutter project .loglog that I created
 ### Use coupon
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/00284a08-aa4f-4f71-90a3-2a95c7640407" width="200" alt="">
-<br>Select coupon to use it from the list<br><br><br>
+<br>Select coupon to use from the list<br><br><br>
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/c5ac1706-55a9-4837-8a71-c5f65d7cc162" width="200" alt="">
 <br>Slide the button at the bottom from the left to the right<br><br><br>
 
 <img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/903839d3-6346-4376-8fa2-4805a404aee7" width="200" alt="">
 <br>Coupon used successfully<br><br><br>
+
+## Message
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/32c23352-d292-49db-8bf5-2917f820d004" width="200" alt="">
+<br>Message list<br><br><br>
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/7d9d6b0f-5fd0-4fd4-bca5-62490a33c7fa" width="200" alt="">
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/865c3c3a-9e8a-4b6c-8d3b-1bf02a39bb5b" width="200" alt="">
+
+<img src="https://github.com/StephenLeeDev/.loglog-not-including-source-code-/assets/57079969/bccec569-cfbb-4432-afa8-5395c0d4590b" width="200" alt="">
+<br>Message detail<br><br><br>
