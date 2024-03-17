@@ -9,12 +9,12 @@ It's a portfolio about Flutter project .loglog that I created
 
 ### PlayStore
 
-- [.loglog Android](https://play.google.com/store/apps/details?id=com.psubwallet.psub_wallet&hl=en-EN)
+- [.loglog Android](https://play.google.com/store/apps/details?id=com.millionet.loglog&hl=en-EN)
   <br>
 
 ### AppStore
 
-- [.loglog iOS](https://apps.apple.com/us/app/psub-%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90-%EC%A7%80%EA%B0%91/id6450692154)
+- [.loglog iOS](https://apps.apple.com/kr/app/loglog/id6443788811)
   <br><br><br>
 
 ## Skill sheet
